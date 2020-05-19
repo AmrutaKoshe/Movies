@@ -1,0 +1,61 @@
+h1 {
+  font-family: 'Concert One';font-size: 38px;
+  color: rgb(253, 239, 236);
+  text-align: center;
+  padding: 20px 120px 20px 120px;
+  background-color: rgb(248, 108, 108);
+}
+body{
+  background-color: rgb(253, 239, 236);
+}
+div {
+  padding: 50px 120px 20px 120px;
+  font-family: 'Laila';font-size: 20px;
+  color: rgb(6, 114, 109);
+  font-weight: 400;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 65%;
+}
+h2{
+  font-family: 'Concert One';font-size: 38px;
+  color: rgb(223, 49, 86);
+  padding-left: 100px;
+  font-weight: lighter;
+}
+.movie {
+  display: inline-block;
+  width: 26%;
+  padding-left: 120px;
+  padding-bottom: 60px;
+}
+.des{
+  display: inline-block;
+  float: right;
+  width: 45%;
+}
+a:link, a:visited {
+  background-color: rgb(223, 49, 86);
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: rgb(255, 79, 108);
+}
+
+footer{
+  text-align: center;
+  padding: 65px;
+  background-color: rgb(233, 118, 118);
+  color: white;
+  font-size: 70px;
+  font-family: 'Lobster';
+}
+  
