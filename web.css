@@ -60,3 +60,9 @@ footer{
   font-family: 'Lobster';
 }
   
+@media screen only and (max-width: 768px){
+  .des{
+    display: block;
+    float: none;
+  }
+}
