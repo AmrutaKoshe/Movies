@@ -25,6 +25,7 @@ h2{
   color: rgb(223, 49, 86);
   padding-left: 100px;
   font-weight: lighter;
+  clear: both;
 }
 .movie {
   display: inline-block;
