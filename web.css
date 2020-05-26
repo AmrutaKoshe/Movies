@@ -66,11 +66,11 @@ footer{
   .des{
     display: block;
     float: none;
-    width: 80%
+    width: 100%;
   }
   .movie {
-  display: block;
-  width: 80%;
-  padding-bottom: 60px;
+      display: block;
+      width: 80%;
+      padding: 22%;
+  }
 }  
-}
