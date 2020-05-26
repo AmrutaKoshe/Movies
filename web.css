@@ -66,4 +66,10 @@ footer{
     float: none;
     width: 80%
   }
+  .movie {
+  display: block;
+  width: 80%;
+  padding-left: 120px;
+  padding-bottom: 60px;
+}  
 }
