@@ -63,6 +63,5 @@ footer{
 @media screen only and (max-width: 768px){
   .des{
     display: block;
-    float: none;
   }
 }
