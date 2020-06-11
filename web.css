@@ -64,7 +64,6 @@ footer{
   font-size: 5rem;
   font-family: 'Lobster';
   width: 100vw;
-  clear both;
 }
  
 @media only screen and (max-width: 767px){
