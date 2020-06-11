@@ -62,14 +62,8 @@ footer{
   color: white;
   font-size: 5rem;
   font-family: 'Lobster';
-<<<<<<< HEAD
-=======
   width: 100vw;
-<<<<<<< HEAD
   clear: both;
->>>>>>> 7a75beabb55685c9ad5457e9ea3e4518ba6d3fef
-=======
->>>>>>> a2325bb80b500f33a647cf4b99acec39bd077066
 }
  
 @media only screen and (max-width: 767px){
