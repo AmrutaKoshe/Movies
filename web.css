@@ -10,7 +10,7 @@ body{
   background-color: rgb(253, 239, 236);
 }
 div {
-  /*padding: 50px 120px 20px 120px;*/
+  /padding: 50px 120px 20px 120px;/
   padding: 1% 10% 1% 10%;
   font-family: 'Laila';
   font-size: 1.5rem;
@@ -66,13 +66,26 @@ footer{
 }
  
 @media only screen and (max-width: 767px){
+  h1{
+    font-size: 1.2rem;
+  }
+  h2{
+    font-size: 0.8rem;
+  }
   .des{
     display: block;
     float: none;
     width: 80%;
   }
+  div{
+    font-size: 0.5rem;
+  }
+  footer{
+    font-size: 2rem;
+  }
   .movie {
     display: block;
-    width: 80%;
+    padding-left: 15%;
+    width: 70%;
   } 
 }
